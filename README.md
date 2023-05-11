@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-The program demonstrates how strings implemented in C. Each string is an array of characters. The last character of a srting array is a **nul** which value is equal to **0**. This is the first element of the ASCII character set.
+The program demonstrates how strings implemented in C. Each string is an array of characters. The last character of a srting array is a **nul** which value is equal to **0**. This last nul character is added to the string by the compiler, so the functions can detect when the string ends.
 
 ## INSTALL LIBRARIES
 
